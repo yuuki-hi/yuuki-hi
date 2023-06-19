@@ -1,17 +1,14 @@
-### Hi there 👋
-- 🌱 I’m currently learning ...
+### 自己紹介
+- 大学院の修士1年で、情報工学について学んでいます。
+- Web開発の仕事に関心があり、現在就職活動中です。
 
-<!--
-**yuuki-hi/yuuki-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 技術
+#触れたことのある技術
+- HTML,CSS,PHPをWeb制作会社でのアルバイトで使用
+- React,Typescript,Django,Python,Laravel,Docker等を用いて開発を行っています。（まだ勉強中ですが...）
+- 特にフロントエンドに興味があり、現在Reactを集中的に勉強しています。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 研究
+ディープラーニングの画像タスク、強化学習タスク、生成タスクをテーマとする研究室に在籍中。
+Python,Pytorchを用いて、ニューラルネットワークのパラメータ空間がもつ特徴について研究しています。
+研究テーマは「深層モデルの部分線形接続性」です。
