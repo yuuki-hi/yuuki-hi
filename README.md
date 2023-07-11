@@ -13,7 +13,7 @@
 自分はReactを用いてフロントエンド部分の実装を行いました。  
 リポジトリ：https://github.com/tf63/kawakera_advance  
 アプリの紹介スライド（Canva）：https://www.canva.com/design/DAFmniET5x0/J4Z1fpjKZrqM0rfMmCN9Yw/view  
-デプロイ先リンク（セキュリティの問題で現在非公開）：http://animalgo-advance.com/  
+デプロイ先リンク（セキュリティの問題でread only）：https://animalgo-advance.vercel.app/ 
 
 ### 研究
 ディープラーニングの画像タスク、強化学習タスク、生成タスクをテーマとする研究室に在籍しています。
